@@ -11,7 +11,7 @@ Then download the content for the sample blog as follows.
 ```
 sudo apt install wget zip unzip
 cd ~/Downloads
-wget https://github.com/arcdetri/blog/archive/master.zip
+wget https://github.com/arcdetri/sample-blog/archive/master.zip
 unzip master.zip
 sudo cp -rf blog/html/* /var/www/html/
 ```
@@ -21,7 +21,7 @@ sudo cp -rf blog/html/* /var/www/html/
 ```
 sudo yum install wget zip unzip
 cd ~/Downloads
-wget https://github.com/arcdetri/blog/archive/master.zip
+wget https://github.com/arcdetri/sample-blog/archive/master.zip
 unzip master.zip
 sudo cp -rf blog/html/* /var/www/html/
 ```
