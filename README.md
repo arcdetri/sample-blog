@@ -1,5 +1,11 @@
 # Sample Blog
 
+First install your web server (e.g. Apache, Nginx, Caddy).
+
+If necessary, create the web root directory `/var/www/html/`.
+
+Then download the content for the sample blog as follows.
+
 ## Debian or Ubuntu
 
 ```
